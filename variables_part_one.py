@@ -1,6 +1,7 @@
 # -----------------------------------------------------
 # -- Variables --
 # ---------------
+# Syntax => [Variable Name] [Assignment Operator] [value]
 #
 # Name Convention and Rules
 # [1] Can start with (a-z A-Z) or underscore like myVar, _myVar
